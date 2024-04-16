@@ -37,3 +37,8 @@ Console.WriteLine("Hello, World!");
     //var obj = "MCMXCIV";
     //var result = obj.ExecuteRomanToInteger();
     //Console.WriteLine(result);
+
+/*MySqrt*/
+    var obj = 2147483647;
+    var result = obj.ExecuteMySqrt();
+    Console.WriteLine(result);
